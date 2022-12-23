@@ -1,0 +1,1 @@
+Get-MpComputerStatus | select *updated, *version
